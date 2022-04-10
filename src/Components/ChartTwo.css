@@ -1,0 +1,13 @@
+.chart2Styles {
+  height: auto;
+  width: 900px;
+  padding: 1%;
+}
+
+@media (max-width: 600px) {
+  .chart2Styles {
+    height: auto;
+    width: auto;
+    padding: 0.5%;
+  }
+}

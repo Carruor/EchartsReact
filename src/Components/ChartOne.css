@@ -1,0 +1,17 @@
+.chartStyles {
+  height: auto;
+  width: 900px;
+  padding: 15px;
+}
+
+title {
+  color: #5470c6;
+}
+
+@media (max-width: 600px) {
+  .chartStyles {
+    height: auto;
+    width: auto;
+    padding: 15px;
+  }
+}

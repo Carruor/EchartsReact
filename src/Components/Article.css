@@ -1,0 +1,32 @@
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #5470c6;
+  padding: 5px;
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 5px;
+}
+
+button {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  width: 100px;
+  height: 30px;
+  background-color: #5470c6;
+  color: aliceblue;
+  border-radius: 10px;
+  border: 0;
+  cursor: pointer;
+}
+.btnStyle {
+  align-self: center;
+  padding: 15px;
+}
+
+.ArticleStyles {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
